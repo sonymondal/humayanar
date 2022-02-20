@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @humayanar
+- 👋 Hi, I’m Humayan Al Rosid
 - 👀 I’m interested in Python, 
-- 🌱 I’m currently learning Python
+- 🌱 I am currently studying BSc in Mathematics.
 
 
 <!---
